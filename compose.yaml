@@ -1,0 +1,10 @@
+services:
+  codecv:
+    build: .
+    image: codecv:grid-nearest
+    container_name: codecv
+    init: true
+    ports:
+      - "8080:80"
+    shm_size: 256mb
+    restart: unless-stopped
