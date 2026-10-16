@@ -1,4 +1,4 @@
-# codecv Enhanced
+# codecv-Enhanced
 
 This is a tool for creating resumes using `markdown`. It can convert your written `markdown` resume into a `PDF` format, supports multiple templates, and runs on love.
 
@@ -49,5 +49,14 @@ Finally, open your browser and access the service's address at http://serverIP:8
 <p>Built-in multiple vector ICONS</p>
 
 <img style="max-width: 1000px" src="./docs/iconfont.webp" alt="矢量图标" />
+
+## ChangeLOG
+
+|    DATE    | VERSION |                             LOG                              |
+| :--------: | :-----: | :----------------------------------------------------------: |
+| 2026.10.16 | v1.1.2  | Added gridLayout syntax to support center alignment of elements within the container. |
+| 2026.10.16 | v1.1.1  | Fixed an issue where the original tool was unable to export correctly. |
+
+
 
 MIT © [Coderlei](./license)

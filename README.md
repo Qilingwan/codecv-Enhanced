@@ -1,4 +1,4 @@
-# codecv Enhanced
+# codecv-Enhanced
 
 这是一款基于 Markdown 语法的在线简历制作工具，它可以将你编写的 `markdown` 简历转为 `PDF`，同时提供海量模板。
 
@@ -68,6 +68,15 @@ npm run dev  或 yarn run dev
 <p>内置多种矢量图标</p>
 
 <img style="max-width: 1000px" src="./docs/iconfont.webp" alt="矢量图标" />
+
+## ChangeLOG
+
+|    DATE    | VERSION |                    LOG                     |
+| :--------: | :-----: | :----------------------------------------: |
+| 2026.10.16 | v1.1.2  | 新增 gridLayout 语法，支持容器中部元素对齐 |
+| 2026.10.16 | v1.1.1  |          修复了原工具无法正常导出          |
+
+
 
 ## License
 
